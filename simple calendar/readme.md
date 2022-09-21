@@ -3,4 +3,4 @@
 This project is made with bootstrap ❤
 
 
-![simple calendar](simple%20calendar%20.jpg)
+![simple calendar](https://raw.githubusercontent.com/UpperErik/simple-calendar/master/simple%20calendar/simple%20calendar.jpg)
