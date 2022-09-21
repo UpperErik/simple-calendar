@@ -1,0 +1,17 @@
+.dropdown-menu {
+    width: 960px;
+}
+
+.calendar-container button{
+    width: 40px;
+    height: 40px;
+}
+
+
+.material-symbols-outlined {
+font-variation-settings:
+'FILL' 0,
+'wght' 100,
+'GRAD' 0,
+'opsz' 48
+}
